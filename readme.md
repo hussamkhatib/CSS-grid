@@ -8,3 +8,6 @@ a repository containing notes of the talk presented at [devkode](https://devkode
 [official documentation](https://www.w3.org/TR/css-grid-1/)  
 [Blog:Full-Bleed Layout Using CSS Grid](https://joshwcomeau.com/css/full-bleed/)  
 [layout-land](https://www.youtube.com/playlist?list=PLbSquHt1VCf1x_-1ytlVMT0AMwADlWtc1)  
+ 
+### browser
+[mozilla nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/)
